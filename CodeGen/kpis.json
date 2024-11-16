@@ -1,0 +1,2308 @@
+[
+  {
+    "name" : "Average Backlog",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Conversations Per Agent",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Escalation Percentage",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Reopen Rate",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Average Customer Satisfaction Score",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Average Replies Per Ticket",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Customer Retention Rate",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Self Service Rate",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Churn Rate",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Positive Metions On Social Media",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Customer Effort Score",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Average Issue Resolution Time",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "First Contact Resolution Rate",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Customer Satisfaction Score",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Average Number Of Interactions",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Escalated Calls",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Brown Bag Sessions",
+    "categoryId" : "1dfde185-4f91-451e-aa84-a124ef535592",
+    "createdBy" : "System",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Working Capital Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Monthly Recurring Revenue",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Times Interest Earned",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Return On Retained Earnings",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Return On Operating Assets",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Return On Net Assets",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Return On Investment",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Return On Invested Capital",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Return On Equity",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Return On Capital Employed",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Return On Assets",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Residual Income",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Price To Earnings Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Price To Book Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Preferred Dividend Coverage Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Preferred Dividend Coverage Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Price Earnings Growth Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Payback Period",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Payable Turnover Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Operating Margin Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Operating Income",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Operating Cash Flow",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Net Operating Profit After Tax",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Net Working Capital",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Net Profit Margin",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Net Present Value",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Net Operating Income",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Net Interest Margin",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Gross Margin",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Goodwill To Assets Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Equity Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Earnings Before Interest, Taxes, Depreciation, And Amortization",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Earnings Before Interest, Taxes, And Amortization",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Earnings Before Interest And Taxes",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Earnings Before Interest",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Earnings Per Share",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Dividend Yield",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Dividend Payout Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Debt To Income Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Debt Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Debt Service Coverage Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Cash Conversion Cycle",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Capitalization Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Break Even Point",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Average Payment Period",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Average Inventory Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Asset Turnover Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Asset Coverage Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Accounts Receivable Turnover",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Cumulative Average Growth Rate",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Cash Flow Coverage Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Contribution Margin",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Cost Of Goods Sold",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Current Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Days Payable Outstanding",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Days Sales In Inventory",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Debt To Assets Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Debt To Equity Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Fixed Charge Coverage Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Gross Profit",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Gross Margin Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Interest Coverage Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Internal Rate Of Return",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Inventory Turnover Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Long Term Debt To Assets",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Margin Of Safety",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Net Income",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Net Profit",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Price To Cash Flow Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Profit Margin Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Quick Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Receivables Turnover Ratio",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Return On Sales",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Sales To Admin Expenses",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Annual Recurring Revenue",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Subscription Revenue",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Days Sales Outstanding",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Days Sales Outstanding",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Long Term Dept",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Income-generating Capital Assets",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Debt Needs",
+    "categoryId" : "a9d1000d-9da4-4fc9-9d59-f915918a9185",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Training Hours",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Profit Score",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Percent Of Goals Met Or Exceeded",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Partner Per Employee",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Benefits Cost Per Employee",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Attrition Rate",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Absenteeism Rate",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Average Time To Onboard An Employee",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Average Time To Fill A Position",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Benefits As A Percent Of Salary",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Cost Per Employee",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Cost Per Employee",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Employee Satisfaction Rating",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Employee Utilization",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Percent Receiving Performance Rating",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Revenue Per Employee",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Revenue To Compensation Ratio",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Revenue To Compensation Ratio",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Tenure",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Time Since Last Promotion",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Worker's Compensation Incident Rate",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Worker's Compensation Cost Per Employee",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Employee Turnover Rate",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Training Investment",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Internal Promotion",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Measure What Matters",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Check-ins",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "# of OKRs",
+    "categoryId" : "8fd4d9cc-cb8d-4193-a960-f2227d25ee0a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "External Website Links",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Referral Traffic",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Net Promoter Score",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Lead Conversion Rate",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Incremental Sales",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Dormancy Rate",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Cost Per Lead",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Click Through Rate",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Bounce Rate",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Customer Lifetime Value",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Average Lead Score",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Average Time On Page",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Brand Awareness",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Content Downloads",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Cost Per Click",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Customer Acquisition Cost",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Customer Attrition",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Market Share",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "End Action Rate",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "First Visits",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Conversion Rate",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Goal Completion Rate",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "New Leads",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Newsletter Signup Rate",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Page Views Per Session",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Response Rate",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Return On Marketing Investment",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Returning Visitors",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Sessions",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Total Visists",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Unique Visitors",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Web Traffic Sources",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Web Traffic Sources",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Lead To Web Traffic Ratio",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "# of signups",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Average Lead to Deal Conversion Ratio",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "# of Followers",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Pageviews per Week",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Avg. Pages per Visit",
+    "categoryId" : "f04a727b-d210-447a-9e70-b68f15765037",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "IT Support Hours",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Z-Score",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "System Availability",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Mean Time To Repair",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Reliability",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Number Of Core System Outages",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Transactions Per Second",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Time To Resolution",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Accuracy",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "First Contact Resolution",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "IT Project Hours",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Maximum Duration Of Outage",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Network Speed",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "On Time On Budget",
+    "categoryId" : "9bcf7c9f-9c7d-477f-8825-1a1af244c41d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Revenue",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Sales Force Effectiveness",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Time Spent by Sales Stage",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Activated New Business Value",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Adjusted Trial Rate",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Average Profit Margin",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Cannibalization Rate",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Coupon Conversion",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "First Appointment to Sales Ratio",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Channel Margin",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Leads Generated by Agents",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Missed Sales Opportunities",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Order Frequency",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Orders Cancelled",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Percent Closing Ratio",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Percent of Revenue from New Products",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Percentage of Markdown Goods",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Potential New Clients Contacted",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Potential Revenue in the Sales Pipeline",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Product Line Profitability",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Product Revenue",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Promotions Conducted",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Purchase Frequency",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Relative market share",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Repurchases of Services Following Project Completion",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Revenue Gained from Top Customers",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Revenue per Successful Call",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Sales Attainment",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Sales Closing Ratio",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Sales Growth Rate",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Sales Growth by Market Segment",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Sales Order Filled per FTE",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Sales Quota Attainment",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Sell-Through Rate",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Selling Costs to Sales Ratio",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Successful to Unsuccessful Tenders",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Time to Break Even",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Unit Sales to Average Market Unit Sales",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Repeat Purchase Volume",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Revenue to Average Market Revenue Ratio",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Sales Bookings",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Sales by Contact Method",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Sales by Department",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Sales by Region",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Sales Cycle Duration",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Sales Revenue per Hour",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Sales Turnover Ratio",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Store Conversion Rate",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Conversation to Appointment Rate",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Baseline Sales",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Sales",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Sales per Rep",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Sales-to-Date",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Trial Accounts",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Unit Sales",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Sales Value Productivity",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "# of Logos",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "New Sales Office",
+    "categoryId" : "df68b3df-2285-4d62-afb4-284fef5d818a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Work Items",
+    "categoryId" : "1b4ee5dc-d835-492f-841b-94aaaef09e8a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Sum of Effort",
+    "categoryId" : "1b4ee5dc-d835-492f-841b-94aaaef09e8a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Count of Work Items",
+    "categoryId" : "1b4ee5dc-d835-492f-841b-94aaaef09e8a",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Percentage of IT Investment on Run",
+    "categoryId" : "39be1c1c-f955-4ac9-ba01-127820312a26",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Warehousing Cost to COGS",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Order Cycle time",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Demand Forecast Accuracy",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Perfect Order Performance",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Back Order Rate",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Inventory Accuracy",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Units Per Transaction",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Inventory to Sales Ratio",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Inventory Carrying Cost",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Inventory Turnover",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Out of Stock Loss",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Supplier Quality Index",
+    "categoryId" : "81f76aea-7c79-4600-b799-94bcd8696853",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Purchasing Cost",
+    "categoryId" : "4afe93c1-ba6a-45ea-b556-ce3e9f88bf1d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "PO's per Employee",
+    "categoryId" : "4afe93c1-ba6a-45ea-b556-ce3e9f88bf1d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "PO Cycle Time",
+    "categoryId" : "4afe93c1-ba6a-45ea-b556-ce3e9f88bf1d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Procurement ROI",
+    "categoryId" : "4afe93c1-ba6a-45ea-b556-ce3e9f88bf1d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Purchasing Lead Time",
+    "categoryId" : "4afe93c1-ba6a-45ea-b556-ce3e9f88bf1d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Quality of Goods Score",
+    "categoryId" : "4afe93c1-ba6a-45ea-b556-ce3e9f88bf1d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Rate of Purchase Return",
+    "categoryId" : "4afe93c1-ba6a-45ea-b556-ce3e9f88bf1d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Supplier Fullfillment Lead Time",
+    "categoryId" : "4afe93c1-ba6a-45ea-b556-ce3e9f88bf1d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Suppliers Per Item",
+    "categoryId" : "4afe93c1-ba6a-45ea-b556-ce3e9f88bf1d",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Change Orders",
+    "categoryId" : "e9cd3afa-0c8d-4da6-95b7-e78d6b050f67",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Project Delivery Satisfaction Score",
+    "categoryId" : "e9cd3afa-0c8d-4da6-95b7-e78d6b050f67",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Timesheets Ontime",
+    "categoryId" : "e9cd3afa-0c8d-4da6-95b7-e78d6b050f67",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Schedule Variance Ratio",
+    "categoryId" : "e9cd3afa-0c8d-4da6-95b7-e78d6b050f67",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Budgeted Cost of Planned Work",
+    "categoryId" : "e9cd3afa-0c8d-4da6-95b7-e78d6b050f67",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Resource Utilization",
+    "categoryId" : "e9cd3afa-0c8d-4da6-95b7-e78d6b050f67",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Billable Utilization",
+    "categoryId" : "e9cd3afa-0c8d-4da6-95b7-e78d6b050f67",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Milestones Ontime",
+    "categoryId" : "e9cd3afa-0c8d-4da6-95b7-e78d6b050f67",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Timeline Spillover",
+    "categoryId" : "e9cd3afa-0c8d-4da6-95b7-e78d6b050f67",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Best Practices for Implementation",
+    "categoryId" : "e9cd3afa-0c8d-4da6-95b7-e78d6b050f67",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Turn Earn Index",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Perfect Order Measurement",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Inventory Velocity",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Gross Margin Return on Investment",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Fill Rate",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Fill Rate",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Customer Order Cycle Time",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Cash to Cash Cycle Time",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Average Payment Period for Production Materials",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Freight Bill Accuracy",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Freight Cost per Unit",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 1
+  },
+  {
+    "name" : "Inventory Days of Supply",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "On Time Shipping Rate",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 2
+  },
+  {
+    "name" : "Supply Chain Cycle Time",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 3
+  },
+  {
+    "name" : "Redesign order process",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  },
+  {
+    "name" : "Manual order adjustment",
+    "categoryId" : "1a506c01-b89d-439e-8439-373b347b30bb",
+    "createdBy" : "SibaHr",
+    "isEnabled" : true,
+    "logicalDelete" : false,
+    "measurementType" : 0
+  }
+
+
+]
